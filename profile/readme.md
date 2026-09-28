@@ -10,7 +10,7 @@
   <a href="https://www.curseforge.com/minecraft/modpacks/ironfall">
  <img alt="Static Badge" src="https://img.shields.io/badge/Curseforge-url?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=black&color=white">
   </a>
-  <a href="https://ironfall.org/#map">
+  <a href="https://ironfall.org/bluemap">
    <img alt="Static Badge" src="https://img.shields.io/badge/Bluemap-url?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=black&color=white">
 </a>
 <a href="https://discord.gg/ZV22zPZeqZ">
