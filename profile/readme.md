@@ -20,7 +20,7 @@
 
 ---
 
--# Wariums Official Server for over a year!
+Wariums Official Server for over a year!
 
 # THE IRON HAS RISEN
 
